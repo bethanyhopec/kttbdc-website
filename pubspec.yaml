@@ -51,11 +51,19 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
-flutter:
+lutter:
   uses-material-design: true
   assets:
     - lib\assets\image 2.png
     - lib\assets\image 1.png
+    - lib\assets\sir.png
+    - lib\assets\missted.png
+    - lib\assets\background.png
+    - lib\assets\asset1.jpg
+    - lib\assets\binhi.png
+    - lib\assets\itso.png
+    - lib\assets\ktto.png
+
 
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/to/asset-from-package
