@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../components/header.dart';
 import '../components/banner.dart';
+import '../components/our_team.dart';
 
 class KTTBDCPage extends StatelessWidget {
   @override
@@ -11,7 +12,7 @@ class KTTBDCPage extends StatelessWidget {
           children: const [
             Header(),
             BannerSection(),
-            
+            TeamPage(),
           ],
         ),
       ),
